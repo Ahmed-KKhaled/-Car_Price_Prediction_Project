@@ -34,5 +34,8 @@ The model achieved an R² score of *0.97*, showing a good prediction accuracy.
 - Scikit-learn  
 - Matplotlib  
 
+## Dataset 
+-https://www.kaggle.com/datasets/CooperUnion/cardataset.
+
 
 ⭐ *If you like this project, don't forget to give it a star!*
